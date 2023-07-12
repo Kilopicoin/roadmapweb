@@ -75,9 +75,6 @@ Tokenomics model
 <p className="finished">
 Tokenomics Contracts
 </p>
-<p>
-Education Content
-</p>
 <p className="finished">
 Skallia Alpha 0
 </p>
@@ -93,25 +90,43 @@ Skallia Alpha 0
         </div>
 
         <div className="tl-content">
-        <p>
+        <p className="finished">
         Masters of Management Alpha 5
         </p>
-<p>
-Masters of Management Alpha 6
-</p>
-<p>
+<p className="finished">
 SES and Matcher Web
 </p>
 <p className="finished">
 Tokenomics Contracts
 </p>
-<p>
-Education Package 1
-</p>
 <p className="finished">
 Skallia Alpha 1
 </p>
-<p>
+<p className="finished">
+Migration to New Contract and Huge Burn
+</p>
+<p className="finished">
+Tokenomics Renewal
+</p>
+<p className="finished">
+Binance Smart Chain Token Issuance
+</p>
+<p className="finished">
+Pathfinder v.4
+</p>
+<p className="finished">
+New Staking Systems
+</p>
+<p className="finished">
+Documentation Page Renewal
+</p>
+<p className="finished">
+Community Page Renewal
+</p>
+<p className="finished">
+Website Infrastructure Renewal
+</p>
+<p className="finished">
 Roadmap Check Meeting
 </p>
         </div>
@@ -127,28 +142,31 @@ Roadmap Check Meeting
         <div className="tl-content">
 
         <p>
-        Masters of Management Alpha 7
+        Masters of Management Alpha 6
         </p>
-<p>
-Masters of Management Alpha 8
-</p>
 <p className="finished">
 Pathfinder Mobile
 </p>
 <p>
+New D.A.O Application
+</p>
+<p>
+New No Doubt Application
+</p>
+<p>
+Documentation Content
+</p>
+<p>
+Whitepaper Renewal
+</p>
+<p>
+3rd Chain Research
+</p>
+<p className="finished">
 Staking Mobile
 </p>
 <p>
-Education Package 2
-</p>
-<p>
 Skallia Alpha 2
-</p>
-<p>
-New Poll System
-</p>
-<p>
-Skallia Alpha 3
 </p>
 
         </div>
@@ -163,16 +181,22 @@ Skallia Alpha 3
 
         <div className="tl-content">
           <p>
-          Masters of Management Alpha 9
+          Masters of Management Beta 1
           </p>
 <p>
-Masters of Management Alpha 10
+Skallia Alpha 3
 </p>
 <p>
-Education Package 3
+SES Minimum Viable Product
 </p>
 <p>
-Skallia Alpha 4
+Harmony-Binance Chain Bridge
+</p>
+<p>
+3rd Chain Research
+</p>
+<p>
+Sustainable Organic Marketing Technics Research Era
 </p>
 <p>
 Roadmap Check Meeting
@@ -189,7 +213,28 @@ Roadmap Check Meeting
 
         <div className="tl-content">
           <p>
-            This section will be filled following the meeting in July 2023 about the developments that have been happened in 2023 and the roadmap decisions of 2024.
+          Masters of Management Remaining Beta versions and Full Release
+          </p>
+          <p>
+Skallia Beta versions
+</p>
+<p>
+Matcher Minimum Viable Product and Alpha versions
+</p>
+<p>
+SES Alpha versions
+</p>
+<p>
+Possible 3rd Chain Adoption
+</p>
+<p>
+          Minimum 2 new Ecosystem Elements which create utility area for LOP tokens
+          </p>
+          <p>
+Sustainable Organic Marketing Technics Application Era
+</p>
+          <p>
+          Full Education content package
           </p>
         </div>
       </div>
@@ -203,8 +248,17 @@ Roadmap Check Meeting
 
         <div className="tl-content">
           <p>
-          This section will be filled following the meeting in July 2023 about the developments that have been happened in 2023 and the roadmap decisions of 2025 and beyond.
+          Masters of Management Expand with new ideas
           </p>
+          <p>
+Skallia Full Release and Expand with new ideas
+</p>
+<p>
+          Adding More Ecosystem Elements which create new utility areas for LOP tokens
+          </p>
+          <p>
+Better Marketing Strategies
+</p>
         </div>
       </div>
     </section>
