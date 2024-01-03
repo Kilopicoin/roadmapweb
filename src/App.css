@@ -5,7 +5,7 @@
 
 
 body {
-  background-image: radial-gradient(circle, #3d324c, #3d324c, #3d324c, #3d2738, #2b1f1f);
+  background: linear-gradient(200deg, #0a0127 0%, #250127 100%);
 font-size: 16px;
 line-height: 1.75;
 

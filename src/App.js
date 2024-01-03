@@ -42,12 +42,69 @@ function App() {
         <div className="tl-bg"></div>
 
         <div className="tl-year">
-          <p className="f2 heading--sanSerif">2022</p>
+          <p className="f2 heading--sanSerif">2022 - 2023</p>
         </div>
 
         <div className="tl-content">
           <p className="finished">
-          Beginning era of the project. Creation of the token, forming the team, enlarging the idea to an updated version and adding more areas to the project.
+          2022, Beginning era of the project. Creation of the token, forming the team, enlarging the idea to an updated version and adding more areas to the project.
+          </p>
+          <p className="finished">
+          2023, Masters of Management, Alpha 3-4-5-6 and Beta 1 versions.
+          </p>
+          <p className="finished">
+          2023, Staking System.
+          </p>
+          <p className="finished">
+          2023, Tokenomics Model.
+          </p>
+          <p className="finished">
+          2023, Tokenomics Contracts.
+          </p>
+          <p className="finished">
+          2023, Skallia Alpha 0-1.
+          </p>
+          <p className="finished">
+          2023, SES and Matcher Web.
+          </p>
+          <p className="finished">
+          2023, Migration and Burn.
+          </p>
+          <p className="finished">
+          2023, Binance Smart Chain Spread.
+          </p>
+          <p className="finished">
+          2023, Pathfinder v.4.
+          </p>
+          <p className="finished">
+          2023, Documentation Page Renewal.
+          </p>
+          <p className="finished">
+          2023, Website Renewal.
+          </p>
+          <p className="finished">
+          2023, Roadmap Check Meetings.
+          </p>
+          <p className="finished">
+          2023, New D.A.O Application.
+          </p>
+          <p className="finished">
+          2023, New No Doubt Application.
+          </p>
+          <p className="finished">
+          2023, Documentation Content.
+          </p>
+          <p className="finished">
+          2023, Whitepaper Renewal.
+          </p>
+          <p className="finished">
+          2023, 3rd Chain Research.
+          </p>
+          <p className="finished">
+          2023, Staking Mobile.
+          </p>
+          <p className="finished">
+          2023, Sustainable Organic Marketing Technics Research.
           </p>
         </div>
       </div>
@@ -56,28 +113,38 @@ function App() {
         <div className="tl-bg"></div>
 
         <div className="tl-year">
-          <p className="f2 heading--sanSerif">2023 <span className="q">Q1</span></p>
+          <p className="f2 heading--sanSerif">2024 <span className="q">Q1</span></p>
         </div>
 
         <div className="tl-content">
-          <p className="finished">
-          Masters of Management Alpha 3
+        <p>
+          Roadmap Renewal
           </p>
-          <p className="finished">
-Masters of Management Alpha 4
-</p>
-<p className="finished">
-Staking system
-</p>
-<p className="finished">
-Tokenomics model
-</p>
-<p className="finished">
-Tokenomics Contracts
-</p>
-<p className="finished">
-Skallia Alpha 0
-</p>
+          <p>
+          Masters of Management Beta 2
+          </p>
+          <p>
+          Documentation Content
+          </p>
+          <p>
+          Skallia Alpha 2
+          </p>
+          <p>
+          Cex Listing
+          </p>
+          <p>
+          3rd Chain Research
+          </p>
+          <p>
+          Masters of Management New Website
+          </p>
+          <p>
+          Harmony-Binance Smart Chain Bridge
+          </p>
+          <p>
+          Education Package
+          </p>
+          
           
         </div>
       </div>
@@ -86,88 +153,31 @@ Skallia Alpha 0
         <div className="tl-bg"></div>
 
         <div className="tl-year">
-          <p className="f2 heading--sanSerif">2023 <span className="q">Q2</span></p>
+          <p className="f2 heading--sanSerif">2024 <span className="q">Q2</span></p>
         </div>
 
         <div className="tl-content">
-        <p className="finished">
-        Masters of Management Alpha 5
-        </p>
-<p className="finished">
-SES and Matcher Web
-</p>
-<p className="finished">
-Tokenomics Contracts
-</p>
-<p className="finished">
-Skallia Alpha 1
-</p>
-<p className="finished">
-Migration to New Contract and Huge Burn
-</p>
-<p className="finished">
-Tokenomics Renewal
-</p>
-<p className="finished">
-Binance Smart Chain Token Issuance
-</p>
-<p className="finished">
-Pathfinder v.4
-</p>
-<p className="finished">
-New Staking Systems
-</p>
-<p className="finished">
-Documentation Page Renewal
-</p>
-<p className="finished">
-Community Page Renewal
-</p>
-<p className="finished">
-Website Infrastructure Renewal
-</p>
-<p className="finished">
-Roadmap Check Meeting
-</p>
-        </div>
-      </div>
-
-      <div className="tl-item">
-        <div className="tl-bg"></div>
-
-        <div className="tl-year">
-          <p className="f2 heading--sanSerif">2023 <span className="q">Q3</span></p>
-        </div>
-
-        <div className="tl-content">
-
         <p>
-        Masters of Management Alpha 6
+          Roadmap Check Meeting
+          </p>
+        <p>
+        Masters of Management Beta 3
         </p>
-<p className="finished">
-Pathfinder Mobile
-</p>
-<p>
-New D.A.O Application
-</p>
-<p>
-New No Doubt Application
-</p>
-<p>
-Documentation Content
-</p>
-<p>
-Whitepaper Renewal
-</p>
-<p>
-3rd Chain Research
-</p>
-<p className="finished">
-Staking Mobile
-</p>
-<p>
-Skallia Alpha 2
-</p>
+        <p>
+          Documentation Content
+          </p>
+          <p>
+          Skallia Alpha 3
+          </p>
+          <p>
+          New Cex Listing Research
+          </p>
+          <p>
+          3rd Chain Research
+          </p>
+          <p>
+          S.E.S MVP
+          </p>
 
         </div>
       </div>
@@ -176,31 +186,33 @@ Skallia Alpha 2
         <div className="tl-bg"></div>
 
         <div className="tl-year">
-          <p className="f2 heading--sanSerif">2023 <span className="q">Q4</span></p>
+          <p className="f2 heading--sanSerif">2024 <span className="q">Q3</span></p>
         </div>
 
         <div className="tl-content">
+        <p>
+          Roadmap Renewal
+          </p>
+        <p>
+        Masters of Management Beta 4
+        </p>
+        <p>
+          Documentation Content
+          </p>
           <p>
-          Masters of Management Beta 1
+          Skallia Beta 1
           </p>
-<p>
-Skallia Alpha 3
-</p>
-<p>
-SES Minimum Viable Product
-</p>
-<p>
-Harmony-Binance Chain Bridge
-</p>
-<p>
-3rd Chain Research
-</p>
-<p>
-Sustainable Organic Marketing Technics Research Era
-</p>
-<p>
-Roadmap Check Meeting
+          <p>
+          New Cex Listing Research
           </p>
+          <p>
+          3rd Chain Decision
+          </p>
+          <p>
+          Matcher MVP
+          </p>
+
+
         </div>
       </div>
 
@@ -208,34 +220,80 @@ Roadmap Check Meeting
         <div className="tl-bg"></div>
 
         <div className="tl-year">
-          <p className="f2 heading--sanSerif">2024</p>
+          <p className="f2 heading--sanSerif">2024 <span className="q">Q4</span></p>
         </div>
 
         <div className="tl-content">
-          <p>
-          Masters of Management Remaining Beta versions and Full Release
+        <p>
+          Roadmap Check Meeting
           </p>
           <p>
-Skallia Beta versions
-</p>
-<p>
-Matcher Minimum Viable Product and Alpha versions
-</p>
-<p>
-SES Alpha versions
-</p>
-<p>
-Possible 3rd Chain Adoption
-</p>
-<p>
-          Minimum 2 new Ecosystem Elements which create utility area for LOP tokens
+          Masters of Management Full Release
           </p>
           <p>
-Sustainable Organic Marketing Technics Application Era
-</p>
-          <p>
-          Full Education content package
+          Documentation Content
           </p>
+          <p>
+          Skallia Beta 2
+          </p>
+          <p>
+          New Cex Listing
+          </p>
+          <p>
+          S.E.S Beta 1
+          </p>
+          <p>
+          Matcher Beta 1
+          </p>
+          <p>
+          Sandbox MMO Announcement, Website and MVP
+          </p>
+          <p>
+          Brain Training Platform Announcement, Website and MVP
+          </p>
+
+        </div>
+      </div>
+
+      <div className="tl-item">
+        <div className="tl-bg"></div>
+
+        <div className="tl-year">
+          <p className="f2 heading--sanSerif">2025</p>
+        </div>
+
+        <div className="tl-content">
+        <p>
+          Roadmap Renewals and Meetings
+          </p>
+          <p>
+          Masters of Management Expand
+          </p>
+          <p>
+          Documentation Content
+          </p>
+          <p>
+          Skallia Full Release
+          </p>
+          <p>
+          New Cex Listings
+          </p>
+          <p>
+          S.E.S Betas
+          </p>
+          <p>
+          Matcher Betas
+          </p>
+          <p>
+          New Education Packages
+          </p>
+          <p>
+          Sandbox MMO Alphas
+          </p>
+          <p>
+          Brain Training Platform Alphas
+          </p>
+
         </div>
       </div>
 
@@ -248,17 +306,39 @@ Sustainable Organic Marketing Technics Application Era
 
         <div className="tl-content">
           <p>
-          Masters of Management Expand with new ideas
+          Roadmap Renewals and Meetings
           </p>
           <p>
-Skallia Full Release and Expand with new ideas
-</p>
-<p>
-          Adding More Ecosystem Elements which create new utility areas for LOP tokens
+          Masters of Management Expand with New Ideas
           </p>
           <p>
-Better Marketing Strategies
-</p>
+          Documentation Content
+          </p>
+          <p>
+          Skallia Expand with New Ideas
+          </p>
+          <p>
+          New Cex Listings
+          </p>
+          <p>
+          S.E.S Full Release and Expand
+          </p>
+          <p>
+          Matcher Full Release and Expand
+          </p>
+          <p>
+          New Education Packages
+          </p>
+          <p>
+          Sandbox MMO Betas and Full
+          </p>
+          <p>
+          Brain Training Platform Betas and Full
+          </p>
+          <p>
+          New Products with New Ideas
+          </p>
+          
         </div>
       </div>
     </section>
